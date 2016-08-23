@@ -1,0 +1,43 @@
+.red-violet { color:#d06cb3; }
+.midnight-blue { color:#0d1043; }
+.bg-red-violet { background-color:#d06cb3; }
+.bg-midnight-blue { background-color:#0d1043; }
+
+* {
+font-size:13pt;
+font-weight:400;
+}
+
+table {
+border-collapse:collapse;
+}
+
+td {
+border:6px double #d06cb3;
+padding:10px;
+}
+
+ol {
+margin-left:1em;
+}
+
+body {
+font-family:'courier new';
+color:#d06cb3;
+background:#0d1043;
+margin:1em;
+}
+
+h1 {
+text-transform:uppercase;
+font-weight:700;
+color:#0d1043;
+background:#d06cb3;
+}
+
+a,.advisory {
+background:#d06cb3;
+color:#0d1043;
+font-weight:700;
+padding-right:.25em;
+}
