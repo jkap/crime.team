@@ -1,0 +1,17 @@
+here's your password:
+
+you'll need to change it on first login
+
+a guide for actually using it is here: http://tilde.club/~anthonydpaul/primer.html
+
+quick start:
+
+ssh username@crime.team
+
+edit index.html in yr public_html folder
+
+that's it
+
+dm me if u have questions
+
+<3 @jkap

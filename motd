@@ -1,0 +1,8 @@
+#!/bin/bash
+
+printf "\n"
+printf "###################################################################\n"
+printf "###       welcome to crime.team!!! if you need help or          ###\n"
+printf "###       need anything installed, talk to jenn!                ###\n"
+printf "###       twitter.com/jkap or me@jkap.io (twitter first!)       ###\n"
+printf "###################################################################\n"
